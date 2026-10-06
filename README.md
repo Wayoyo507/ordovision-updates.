@@ -12,4 +12,6 @@ Se han validado compilación y pruebas del comprobador. La prueba completa de ac
 
 Este repositorio contiene solo versiones e instaladores; no contiene información del hotel, cuentas ni claves de firma.
 
+Windows 0.1.3 (6 de octubre de 2026) incorpora la vista previa en el diálogo de impresión de Windows y conserva la vista previa de OrdoVision. Requiere Windows x64 2004 o posterior. Cierra la aplicación antes de instalar. Android mantiene su versión 1.0.2. El instalador de Windows sigue sin certificado de editor. Se verificaron dos páginas y cancelación; no una impresión física.
+
 Android 1.0.2 (código 3) y Windows 0.1.2 agregan una pantalla local con reintento cuando el panel no puede abrirse. Esto no habilita edición ni acceso a reservas sin internet.

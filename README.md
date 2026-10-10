@@ -1,17 +1,24 @@
 # OrdoVision — descargas
 
-Instaladores de Android y Windows para acceder al panel publicado. Requieren internet.
+**Windows 0.1.4 · Android 1.0.3 (código 4)**
 
-[Descargar la última versión](https://github.com/Wayoyo507/ordovision-updates./releases/latest)
+[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-local-2026-10-10)
 
-En PC: menú OrdoVision → Buscar actualizaciones. En Android: OrdoVision · Opciones → Buscar actualizaciones. La descarga se abre en el navegador; confirma la instalación manualmente.
+La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 
-Android 1.0.1 usa una firma de distribución nueva. Si instalaste un APK de pruebas con otra firma, debes retirarlo antes de instalar esta versión. Las siguientes actualizaciones conservarán la firma. Windows 0.1.2 no tiene certificado de editor verificado.
+Las lecturas guardadas de Sheets y Cloudbeds no contienen cambios nuevos que aún no hayan llegado al dispositivo. Nuevas reservas, check-in/check-out, tours, horarios y administración todavía requieren conexión para guardar. No todas las acciones admiten edición offline.
 
-Se han validado compilación y pruebas del comprobador. La prueba completa de actualización entre dos versiones instaladas aún está pendiente.
+## Actualizar
 
-Este repositorio contiene solo versiones e instaladores; no contiene información del hotel, cuentas ni claves de firma.
+- PC: menú **OrdoVision → Buscar actualizaciones**.
+- Android: **OrdoVision · Opciones → Buscar actualizaciones**.
+- La descarga abre el navegador; confirma la instalación sobre la versión anterior. Cierra la aplicación antes de instalar. No borres almacenamiento ni desinstales con cambios pendientes.
+- Una copia antigua protegida con PIN lo solicita una sola vez para migrar; después abre automáticamente. Cerrar sesión bloquea la copia hasta volver a autenticarse con internet.
 
-Windows 0.1.3 (6 de octubre de 2026) incorpora la vista previa en el diálogo de impresión de Windows y conserva la vista previa de OrdoVision. Requiere Windows x64 2004 o posterior. Cierra la aplicación antes de instalar. Android mantiene su versión 1.0.2. El instalador de Windows sigue sin certificado de editor. Se verificaron dos páginas y cancelación; no una impresión física.
+Se conserva la firma Android de distribución. Windows requiere x64, versión 2004 o posterior; el instalador no tiene certificado de editor. Se mantiene la impresión nativa y su vista previa.
 
-Android 1.0.2 (código 3) y Windows 0.1.2 agregan una pantalla local con reintento cuando el panel no puede abrirse. Esto no habilita edición ni acceso a reservas sin internet.
+## Verificación
+
+Pruebas de interfaz de escritorio y móvil: guardados offline, recarga, reconexión, conflictos, migración de PIN, cierre de sesión y usuario recordado. Electron real: apertura en frío sin red y recuperación de la edición guardada. APK compilado y firmado; falta la prueba de arranque offline en un dispositivo Android real. La actualización completa entre dos instalaciones sigue pendiente de verificar en dispositivo.
+
+Este repositorio contiene instaladores y su manifiesto de versiones. No contiene información del hotel, cuentas ni claves de firma.

@@ -19,6 +19,6 @@ Se conserva la firma Android de distribución. Windows requiere x64, versión 20
 
 ## Verificación
 
-Pruebas de interfaz de escritorio y móvil: guardados offline, recarga, reconexión, conflictos, migración de PIN, cierre de sesión y usuario recordado. Electron real: apertura en frío sin red y recuperación de la edición guardada. APK compilado y firmado; falta la prueba de arranque offline en un dispositivo Android real. La actualización completa entre dos instalaciones sigue pendiente de verificar en dispositivo.
+Pruebas de interfaz de escritorio y móvil: guardados offline, recarga, reconexión, conflictos, migración de PIN, cierre de sesión y usuario recordado. Electron real: apertura en frío sin red y recuperación de la edición guardada. APK compilado, firmado e instalado en un emulador Pixel 7 Pro: su inicio de sesión abrió con modo avión y Wi-Fi desactivado. Falta validar lectura y edición autenticadas offline en Android. La actualización completa entre dos instalaciones sigue pendiente de verificar en dispositivo.
 
 Este repositorio contiene instaladores y su manifiesto de versiones. No contiene información del hotel, cuentas ni claves de firma.

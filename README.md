@@ -1,8 +1,8 @@
 # OrdoVision — descargas
 
-**Windows publicado: 0.1.5 · Android: 1.0.6 (código 7)**
+**Windows 0.1.6 · Android 1.0.6 (código 7)**
 
-[Descargar Android 1.0.6](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-notifications-2026-10-11)
+[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-notifications-2026-10-11)
 
 La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 
@@ -38,4 +38,4 @@ Los cambios pendientes se muestran en la campanita y suman al contador. La compa
 
 El instalador Windows 0.1.6 terminó correctamente en el nuevo intento, sin cambiar protecciones. Sustituye al bloqueo anterior. Ambos paquetes incluyen la misma interfaz web 244 y las mejoras de horarios ya publicadas. Se verificaron 6 escenarios de interfaz, 2 pruebas de comparación, recuperación offline en Electron, firma Android y coincidencia de los 12 recursos requeridos. Instalación completa sobre la versión anterior, Android en dispositivo y una impresora física siguen pendientes de prueba.
 
-La subida del instalador Windows 0.1.6 fue interrumpida por la conexión. El archivo está generado localmente, pero no publicado; Buscar actualizaciones conserva Windows 0.1.5. [Descargar Windows 0.1.5](https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Windows-0.1.5.exe).
+Windows 0.1.6 se subió correctamente y su tamaño y SHA256 coinciden con el instalador local. Buscar actualizaciones ofrece esta versión.

@@ -1,8 +1,12 @@
 # OrdoVision — descargas
 
-**Windows 0.1.5 · Android 1.0.4 (código 5)**
+**Windows 0.1.5 · Android 1.0.5 (código 6)**
 
-[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-connectivity-2026-10-10)
+[Descargar Android 1.0.5](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-reliability-2026-10-11)
+
+[Descargar Windows 0.1.5](https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Windows-0.1.5.exe)
+
+Windows 0.1.6 está preparado, pero su instalador no se publicó: la política de firma de Windows bloqueó su construcción. Buscar actualizaciones conserva Windows 0.1.5 como última versión válida. Las mejoras del 11 de octubre están publicadas en la web y Android 1.0.5.
 
 La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 
@@ -27,3 +31,7 @@ Este repositorio contiene instaladores y su manifiesto de versiones. No contiene
 
 Esta entrega elimina el bloqueo de ADR, Gráficas y otras consultas cuando hay conexión. Un error de otra fuente o una copia guardada no impiden consultar la web. ADR y Gráficas conservan su última respuesta completa sin señal y se recargan automáticamente al recuperar conexión. Probado en escritorio y móvil, manteniendo independientes las reglas financieras y operativas.
 
+
+## Revisión funcional del 11 de octubre
+
+Mapa con dependencias indirectas, pruebas asociadas, referencias verificables y diagnóstico que conserva el historial. Correcciones de notas para gerente de salón, copia local del horario recién guardado y aviso de lectura anterior cuando falla una fuente. Interfaz offline protegida frente a descargas incompletas. 141 pruebas de lógica y servidor y 30 escenarios de interfaz aprobados. La validación nativa de Android y la impresión física siguen pendientes; no se certifica el 100 % de los escenarios.

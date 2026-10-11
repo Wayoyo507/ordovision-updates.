@@ -7,8 +7,8 @@
   },
   "android": {
     "appId": "com.ordovision.resort.operations",
-    "version": "1.0.4",
-    "versionCode": 5,
-    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Android-1.0.4.apk"
+    "version": "1.0.5",
+    "versionCode": 6,
+    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-reliability-2026-10-11/OrdoVision-Android-1.0.5.apk"
   }
 }

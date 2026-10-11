@@ -1,8 +1,8 @@
 # OrdoVision — descargas
 
-**Windows 0.1.4 · Android 1.0.3 (código 4)**
+**Windows 0.1.5 · Android 1.0.4 (código 5)**
 
-[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-local-2026-10-10)
+[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-connectivity-2026-10-10)
 
 La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 
@@ -19,6 +19,11 @@ Se conserva la firma Android de distribución. Windows requiere x64, versión 20
 
 ## Verificación
 
-Pruebas de interfaz de escritorio y móvil: guardados offline, recarga, reconexión, conflictos, migración de PIN, cierre de sesión y usuario recordado. Electron real: apertura en frío sin red y recuperación de la edición guardada. APK compilado, firmado e instalado en un emulador Pixel 7 Pro: su inicio de sesión abrió con modo avión y Wi-Fi desactivado. Falta validar lectura y edición autenticadas offline en Android. La actualización completa entre dos instalaciones sigue pendiente de verificar en dispositivo.
+Pruebas de interfaz de escritorio y móvil: guardados offline, recarga, reconexión, conflictos, migración de PIN, cierre de sesión y usuario recordado. Electron real: apertura en frío sin red y recuperación de la edición guardada. APK actual compilado y firmado. La versión 1.0.3 anterior abrió su inicio de sesión en un emulador Pixel 7 Pro con modo avión y Wi-Fi desactivado. Falta validar lectura y edición autenticadas offline en Android. La actualización completa entre dos instalaciones sigue pendiente de verificar en dispositivo.
 
 Este repositorio contiene instaladores y su manifiesto de versiones. No contiene información del hotel, cuentas ni claves de firma.
+
+## Corrección de consultas y pestañas
+
+Esta entrega elimina el bloqueo de ADR, Gráficas y otras consultas cuando hay conexión. Un error de otra fuente o una copia guardada no impiden consultar la web. ADR y Gráficas conservan su última respuesta completa sin señal y se recargan automáticamente al recuperar conexión. Probado en escritorio y móvil, manteniendo independientes las reglas financieras y operativas.
+

@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "windows": {
     "appId": "com.ordovision.panelhotelobr",
-    "version": "0.1.4",
-    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-local-2026-10-10/OrdoVision-Windows-0.1.4.exe"
+    "version": "0.1.5",
+    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Windows-0.1.5.exe"
   },
   "android": {
     "appId": "com.ordovision.resort.operations",
-    "version": "1.0.3",
-    "versionCode": 4,
-    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-local-2026-10-10/OrdoVision-Android-1.0.3.apk"
+    "version": "1.0.4",
+    "versionCode": 5,
+    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Android-1.0.4.apk"
   }
 }

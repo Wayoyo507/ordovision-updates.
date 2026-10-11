@@ -1,12 +1,8 @@
 # OrdoVision — descargas
 
-**Windows 0.1.5 · Android 1.0.5 (código 6)**
+**Windows publicado: 0.1.5 · Android: 1.0.6 (código 7)**
 
-[Descargar Android 1.0.5](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-reliability-2026-10-11)
-
-[Descargar Windows 0.1.5](https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Windows-0.1.5.exe)
-
-Windows 0.1.6 está preparado, pero su instalador no se publicó: la política de firma de Windows bloqueó su construcción. Buscar actualizaciones conserva Windows 0.1.5 como última versión válida. Las mejoras del 11 de octubre están publicadas en la web y Android 1.0.5.
+[Descargar Android 1.0.6](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-notifications-2026-10-11)
 
 La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 
@@ -35,3 +31,11 @@ Esta entrega elimina el bloqueo de ADR, Gráficas y otras consultas cuando hay c
 ## Revisión funcional del 11 de octubre
 
 Mapa con dependencias indirectas, pruebas asociadas, referencias verificables y diagnóstico que conserva el historial. Correcciones de notas para gerente de salón, copia local del horario recién guardado y aviso de lectura anterior cuando falla una fuente. Interfaz offline protegida frente a descargas incompletas. 141 pruebas de lógica y servidor y 30 escenarios de interfaz aprobados. La validación nativa de Android y la impresión física siguen pendientes; no se certifica el 100 % de los escenarios.
+
+## Avisos en la campanita · web 244
+
+Los cambios pendientes se muestran en la campanita y suman al contador. La comparación muestra únicamente las diferencias con etiquetas comprensibles; no expone el bloque de datos técnicos. Cerrar el aviso no descarta nada. Mantiene las opciones de conservar la web o aplicar los cambios del dispositivo tras confirmación.
+
+El instalador Windows 0.1.6 terminó correctamente en el nuevo intento, sin cambiar protecciones. Sustituye al bloqueo anterior. Ambos paquetes incluyen la misma interfaz web 244 y las mejoras de horarios ya publicadas. Se verificaron 6 escenarios de interfaz, 2 pruebas de comparación, recuperación offline en Electron, firma Android y coincidencia de los 12 recursos requeridos. Instalación completa sobre la versión anterior, Android en dispositivo y una impresora física siguen pendientes de prueba.
+
+La subida del instalador Windows 0.1.6 fue interrumpida por la conexión. El archivo está generado localmente, pero no publicado; Buscar actualizaciones conserva Windows 0.1.5. [Descargar Windows 0.1.5](https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-connectivity-2026-10-10/OrdoVision-Windows-0.1.5.exe).

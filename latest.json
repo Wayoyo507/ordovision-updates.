@@ -1,14 +1,14 @@
 {
-  "schemaVersion": 1,
-  "windows": {
-    "appId": "com.ordovision.panelhotelobr",
-    "version": "0.1.6",
-    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-notifications-2026-10-11/OrdoVision-Windows-0.1.6.exe"
-  },
-  "android": {
-    "appId": "com.ordovision.resort.operations",
-    "version": "1.0.6",
-    "versionCode": 7,
-    "url": "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-notifications-2026-10-11/OrdoVision-Android-1.0.6.apk"
-  }
+    "schemaVersion":  1,
+    "windows":  {
+                    "appId":  "com.ordovision.panelhotelobr",
+                    "version":  "0.1.7",
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-pc-0.1.7-android-1.0.7/OrdoVision-Windows-0.1.7.exe"
+                },
+    "android":  {
+                    "appId":  "com.ordovision.resort.operations",
+                    "version":  "1.0.7",
+                    "versionCode":  8,
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates./releases/download/apps-pc-0.1.7-android-1.0.7/OrdoVision-Android-1.0.7.apk"
+                }
 }

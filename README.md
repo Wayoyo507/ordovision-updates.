@@ -1,8 +1,10 @@
 # OrdoVision — descargas
 
-**Windows 0.1.6 · Android 1.0.6 (código 7)**
+**Windows 0.1.9 · Android 1.0.9 (código 10)**
 
-[Descargar los instaladores](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-notifications-2026-10-11)
+- [Descargar para Windows](https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.9-android-1.0.9/OrdoVision-Windows-0.1.9.exe)
+- [Descargar para Android](https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.9-android-1.0.9/OrdoVision-Android-1.0.9.apk)
+- [Ver detalles y hashes de la publicación](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-pc-0.1.9-android-1.0.9)
 
 La misma interfaz se incluye dentro de las aplicaciones. Después de iniciar sesión y cargar los datos con internet, abre automáticamente la copia local cuando falta señal. Daily Report y cenas conservan las ediciones y las sincronizan al recuperar conexión. Los conflictos se revisan antes de sustituir cambios de otro equipo.
 

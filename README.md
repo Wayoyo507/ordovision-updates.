@@ -1,8 +1,8 @@
 # OrdoVision — descargas
 
-**Windows 0.1.9 · Android 1.0.9 (código 10)**
+**Windows 0.1.11 · Android 1.0.9 (código 10)**
 
-- [Descargar para Windows](https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.9-android-1.0.9/OrdoVision-Windows-0.1.9.exe)
+- [Descargar para Windows](https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/windows-0.1.11/OrdoVision-Windows-0.1.11.exe)
 - [Descargar para Android](https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.9-android-1.0.9/OrdoVision-Android-1.0.9.apk)
 - [Ver detalles y hashes de la publicación](https://github.com/Wayoyo507/ordovision-updates./releases/tag/apps-pc-0.1.9-android-1.0.9)
 
@@ -41,3 +41,8 @@ Los cambios pendientes se muestran en la campanita y suman al contador. La compa
 El instalador Windows 0.1.6 terminó correctamente en el nuevo intento, sin cambiar protecciones. Sustituye al bloqueo anterior. Ambos paquetes incluyen la misma interfaz web 244 y las mejoras de horarios ya publicadas. Se verificaron 6 escenarios de interfaz, 2 pruebas de comparación, recuperación offline en Electron, firma Android y coincidencia de los 12 recursos requeridos. Instalación completa sobre la versión anterior, Android en dispositivo y una impresora física siguen pendientes de prueba.
 
 Windows 0.1.6 se subió correctamente y su tamaño y SHA256 coinciden con el instalador local. Buscar actualizaciones ofrece esta versión.
+## Windows 0.1.11
+
+Backend compartido Cloudflare. Datos locales anteriores conservados por origen, sin migracion entre bases. Iniciar sesion nuevamente. Pendientes: acceso con cuenta real y prueba completa de actualizacion instalada. Instalador sin certificado de editor.
+
+[Detalles y SHA-256 de Windows 0.1.11](https://github.com/Wayoyo507/ordovision-updates./releases/tag/windows-0.1.11)

@@ -2,8 +2,8 @@
     "schemaVersion":  1,
     "windows":  {
                     "appId":  "com.ordovision.panelhotelobr",
-                    "version":  "0.1.9",
-                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.9-android-1.0.9/OrdoVision-Windows-0.1.9.exe"
+                    "version":  "0.1.11",
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/windows-0.1.11/OrdoVision-Windows-0.1.11.exe"
                 },
     "android":  {
                     "appId":  "com.ordovision.resort.operations",

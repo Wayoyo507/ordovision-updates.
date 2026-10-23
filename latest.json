@@ -1,16 +1,16 @@
 {
-  "schemaVersion": 1,
-  "windows": {
-    "appId": "com.ordovision.panelhotelobr",
-    "version": "0.1.13",
-    "url": "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/windows-0.1.13/OrdoVision-Windows-0.1.13.exe",
-    "sha256": "9d19c81cb49c436ce241ec60790086b35de0b8364d9959c71965f70c0093c2cf"
-  },
-  "android": {
-    "appId": "com.ordovision.resort.operations",
-    "version": "1.1.0",
-    "versionCode": 11,
-    "url": "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.12-android-1.1.0/OrdoVision-Android-1.1.0.apk",
-    "sha256": "9382ad36ab8076a3e367bb060fc725219ec4b45d83c25fde8b0ab3339ef4f0d0"
-  }
+    "schemaVersion":  1,
+    "windows":  {
+                    "appId":  "com.ordovision.panelhotelobr",
+                    "version":  "0.1.14",
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.14-android-1.1.1/OrdoVision-Windows-0.1.14.exe",
+                    "sha256":  "1532ea0e9d3a8ddbf188245f11b2ea28a401958ec7d0be9e6333850dbb2c6cb2"
+                },
+    "android":  {
+                    "appId":  "com.ordovision.resort.operations",
+                    "version":  "1.1.1",
+                    "versionCode":  12,
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.14-android-1.1.1/OrdoVision-Android-1.1.1.apk",
+                    "sha256":  "5f0d08526a31482fb3a302badb1c4663768fb768a5842b9186f54fb0310bc217"
+                }
 }

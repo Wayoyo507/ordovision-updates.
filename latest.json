@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "windows":  {
                     "appId":  "com.ordovision.panelhotelobr",
-                    "version":  "0.1.14",
-                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/apps-pc-0.1.14-android-1.1.1/OrdoVision-Windows-0.1.14.exe",
-                    "sha256":  "1532ea0e9d3a8ddbf188245f11b2ea28a401958ec7d0be9e6333850dbb2c6cb2"
+                    "version":  "0.1.15",
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/windows-0.1.15/OrdoVision-Windows-0.1.15.exe",
+                    "sha256":  "5d5719e2399ceb3377cc68515538c6e6058e7c002698f3b057c0f8df22189c05"
                 },
     "android":  {
                     "appId":  "com.ordovision.resort.operations",

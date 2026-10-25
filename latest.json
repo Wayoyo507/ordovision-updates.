@@ -12,5 +12,11 @@
                     "versionCode":  13,
                     "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/android-1.1.2/OrdoVision-Android-1.1.2.apk",
                     "sha256":  "b4f12836b5e47b86f326dd8a341f9daef3a06fa31bc89d22de0f48f4af210180"
-                }
+                },
+    "windowsUi":  {
+                      "version":  "0.1.20",
+                      "minShell":  "0.1.18",
+                      "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/interfaz-0.1.20/OrdoVision-Interfaz-0.1.20.json.gz",
+                      "sha256":  "dc3094c0b8433df49e39fbab3162a374246b3bae2544f1b3cb8db9b6944dbaf4"
+                  }
 }

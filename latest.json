@@ -8,10 +8,10 @@
                 },
     "android":  {
                     "appId":  "com.ordovision.resort.operations",
-                    "version":  "1.1.17",
-                    "versionCode":  28,
-                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/android-1.1.17/OrdoVision-Android-1.1.17.apk",
-                    "sha256":  "e48cdf204ba5db722ffe9d09a98a45b6309037c3d28643a1f0abd36d5647ad85"
+                    "version":  "1.1.18",
+                    "versionCode":  29,
+                    "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/android-1.1.18/OrdoVision-Android-1.1.18.apk",
+                    "sha256":  "08ae033ffd9c994ee450f1da9b65c8f9fd74cf5b166181225b6f46d47a6d44bc"
                 },
     "windowsUi":  {
                       "version":  "0.1.56",

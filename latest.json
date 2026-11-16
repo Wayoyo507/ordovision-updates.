@@ -14,9 +14,9 @@
                     "sha256":  "8e07858b50bd6ceaafc2844ebb519ac14f2e3748d2b763e31f690423defd9469"
                 },
     "windowsUi":  {
-                      "version":  "0.1.59",
+                      "version":  "0.1.60",
                       "minShell":  "0.1.18",
-                      "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/interfaz-0.1.59/OrdoVision-Interfaz-0.1.59.json.gz",
-                      "sha256":  "be8bb73f4ef728f0dfbba5f80310330de7b6115acb79e0170bacfae8977b5223"
+                      "url":  "https://github.com/Wayoyo507/ordovision-updates%2E/releases/download/interfaz-0.1.60/OrdoVision-Interfaz-0.1.60.json.gz",
+                      "sha256":  "b6cd6fb637c86ffcf422c28f9b9021b37d3adb07366650646913e5d198a3e4e3"
                   }
 }
